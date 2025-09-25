@@ -1,5 +1,4 @@
 
-
 # summarize the data
 from pandas import read_csv
 # Load dataset

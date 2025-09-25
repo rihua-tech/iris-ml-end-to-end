@@ -1,6 +1,6 @@
 
 
-# MC-01: Environment versions (matches the mini-course)
+# MC-01: python scripts\mini_course\01_env_versions.py (matches the mini-course)
 import sys, scipy, numpy, pandas, matplotlib, sklearn
 print("Python:", sys.version)
 print("SciPy:", scipy.__version__)
