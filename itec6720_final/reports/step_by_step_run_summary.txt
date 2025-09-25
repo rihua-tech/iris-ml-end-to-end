@@ -1,0 +1,4 @@
+Iris Step-by-Step Project — Run Summary
+Best CV accuracy: 0.973
+Best params: {'clf__C': 0.1, 'clf__gamma': 'scale', 'clf__kernel': 'linear'}
+Test accuracy: 0.921
